@@ -1,0 +1,33 @@
+
+.phonein {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    background-color: #ff4534;
+    border-radius: 20px;
+}
+.phone-content{
+text-align: center;
+right: auto;
+bottom: auto;
+background-color: antiquewhite;
+height: max-content;
+    max-width: fit-content;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 400px;
+}
+.colo {
+    border-radius: 100px;
+    opacity: 0.8;
+}
+.react-tel-input {
+    width: 100%;
+}
+
+.react-tel-input input {
+    font-size: 16px;
+    
+}
